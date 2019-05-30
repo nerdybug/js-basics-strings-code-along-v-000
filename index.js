@@ -1,2 +1,2 @@
 // Write your code in this file!
-const curentUser = "name";
+const currentUser = "name";
